@@ -40,4 +40,4 @@ A simple 2-player dice game built with **HTML**, **CSS**, and **JavaScript**. Pl
 ## How to Run the Game
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/dice-game.git
+   git clone https://github.com/abdulaarizaman/Pig (Dice) Game.git
